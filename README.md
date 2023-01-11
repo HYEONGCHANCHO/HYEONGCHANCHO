@@ -4,3 +4,4 @@
 # 006272
 
 /github/followers/:user?label=Follow
+![GitHub followers](https://img.shields.io/github/followers/HYEONGCHANCHO?style=social)
