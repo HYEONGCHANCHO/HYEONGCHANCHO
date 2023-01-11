@@ -1,8 +1,8 @@
 
 ## 안녕하세요 저는 조형찬입니다! 
-:simple_smile:
 
-:books: 국비교육 2022.12.~2023.6.
+
+:books: 국비교육 2022.12.~2023.6. :simple_smile:
 
 
 ![html](https://img.shields.io/badge/html-yellowgreen)
