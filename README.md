@@ -9,5 +9,5 @@
 ![css](https://img.shields.io/badge/css-green)
 ![javascript](https://img.shields.io/badge/javascript-brightgreen)
 ![java](https://img.shields.io/badge/java-orange)
-![GitHub following](https://img.shields.io/github/following/HYEONGCHANCHO?style=social)
+![GitHub followers](https://img.shields.io/github/followwers/HYEONGCHANCHO?style=social)
 
