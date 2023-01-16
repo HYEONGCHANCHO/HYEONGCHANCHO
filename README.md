@@ -2,7 +2,7 @@
 ## 반갑습니다 저는 조형찬입니다:grinning:
 
 
-:books: 서버개발 공부 2022.12.~2023.6.
+:books: 서버개발 공부 2022.12.~
 
 
 ![html](https://img.shields.io/badge/html-yellowgreen)
