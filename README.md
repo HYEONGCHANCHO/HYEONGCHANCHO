@@ -1,5 +1,5 @@
 
-## 반갑습니다 저는 조형찬입니다:grinning:
+## 반갑습니다 저는 조형찬입니다 :grinning:
 
 
 :books: 서버개발 공부 2022.12.~
@@ -9,4 +9,6 @@
 ![css](https://img.shields.io/badge/css-green)
 ![javascript](https://img.shields.io/badge/javascript-brightgreen)
 ![java](https://img.shields.io/badge/java-orange)
+![spring](https://img.shields.io/badge/java-orange)
+
 
