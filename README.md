@@ -13,7 +13,7 @@ Team project
 Single Project 
 + MapleStory Open API project (2024.01.~ 진행중.)
   
-  https://github.com/HYEONGCHANCHO/MapleApIProjec
+  https://github.com/HYEONGCHANCHO/MapleApIProject
 
 
 
